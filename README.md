@@ -48,9 +48,10 @@ The analysis concludes that 3 Counties count up to 369,711 votes. The Denver cou
 ![election_results](https://user-images.githubusercontent.com/86158802/126084518-6c19a037-85e6-4e92-abcf-242ccfe1b238.PNG)
 
 ## Election Audit Summary:
-This Analysis can be performed for every election keeping in mind, the following two factors involved:
+For this analysis we applied logic that can use data given to count votes individually to candidates and also based on the counties voters vote for in data.
+Similarly this Analysis can be performed for every election keeping in mind, the following two factors involved:
 <ul>
   <li>The script can be modified by changing the csv file path to the targetted file for the required election analysis.</li>
   <li>The looping logic works the same way, keeping in mind the fields targetted for the analysis, the input and output file can be modified as per need.</li>
 </ul>
-
+By keeping these two factors in mind, we can do any future analysis on elections data provided.
